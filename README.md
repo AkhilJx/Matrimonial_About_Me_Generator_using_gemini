@@ -9,6 +9,7 @@ A dynamic "About Me" generator that creates personalized biographies based on us
 🔹 Built with: Python, Streamlit, Gemini API
 
 
+*****************************************************************************************************************************
 
 
 📌 Features
@@ -31,6 +32,7 @@ Family Background
 ✅ Easy to Deploy – Can be hosted on Streamlit Cloud, Hugging Face Spaces, or locally.
 
 
+*****************************************************************************************************************************
 
 
 🚀 How It Works
@@ -42,9 +44,11 @@ AI Processing: The app sends the structured input to Gemini 1.5 Flash for text g
 Output Display: A well-written "About Me" section is generated and displayed.
 
 
-🛠️ Installation & Setup
-Prerequisites
+*****************************************************************************************************************************
 
+
+🛠️ Installation & Setup
+*Prerequisites*
 
 Python 3.8+
 
