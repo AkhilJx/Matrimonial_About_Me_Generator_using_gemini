@@ -55,3 +55,17 @@ Python 3.8+
 A Google API Key for Gemini (Get it from Google AI Studio)
 
 Streamlit (pip install streamlit)
+
+
+*****************************************************************************************************************************
+
+
+💡 Future Improvements
+
+Multi-language support
+
+Export as PDF/Markdown
+
+More customization options (tone, length)
+
+Integration with LinkedIn/Twitter
